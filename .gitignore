@@ -1,3 +1,10 @@
 task1/terraform.tfstate
+task1/terraform.tfstate.backup
 task1/.terraform/
 task1/.terraform.lock.hcl
+task2/terraform.tfstate
+task2/terraform.tfstate.backup
+task2/.terraform/
+task2/.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
